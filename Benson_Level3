@@ -9,16 +9,15 @@
 <body>
     <div = "intro">
       <h1>Day in the life of ME
-      <p>I like to sleep <p>
-      <p>Do you like sleeping?
-      <p> I only got 4 hours tonight </p>
-      <li>Life is never complete without sleep. </li>
-      <img alt = "bed pic" ="blankets.jpg"></img>
-      </dlv>
+    <p>I like to sleep 
+    <p> <p>Do you like sleeping?
+<p> I only got 4 hours tonight </p>
+     <li>Life is never complete without sleep. 
+     </li> <img alt = "bed pic" ="blankets.jpg"></img> </dlv>
      <article class = "middle
-     <h2> Breakfast <p> WHO EATS BREAKFAST </h2
+   <h2> Breakfast <p> WHO EATS BREAKFAST 
+   </h2
      <p> YELL YES IF YOU DO <p>
-     Just kidding I do </p
-     <article>
+     Just kidding I do </p <article>
 </body>
 </html>
